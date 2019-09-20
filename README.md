@@ -1,6 +1,6 @@
 # vue-cli
 
-> A Vue.js project
+> A Vue.js project where you can add up to 10 your favorite quotes with opportunity to deleted them by clicking on each.
 
 ## Build Setup
 
